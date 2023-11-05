@@ -20,8 +20,6 @@
 &emsp; &emsp;⚪ Frameworks: Angualar and React <br>
 &emsp; &emsp;⚪ Tools: Docker, Kubernetes, AWS, and Concourse <br>
 
-➕ My happy place is CSS💕 <br>
-
 ## D E S I G N ##
 ➕I have some experience in wireframing and Figma prototypying 
 
