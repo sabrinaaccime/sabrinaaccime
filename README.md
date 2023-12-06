@@ -14,10 +14,10 @@
 ➕ I have worked with ... <br>
 &emsp; &emsp; ⚪ CMS: Drupal and Wordpress <br>
 &emsp; &emsp; ⚪ Languages: HTML, CSS, SASS, Javascript, Python, SQL, Java and Ruby <br>
-&emsp; &emsp; ⚪ Frameworks: Tailwind, and Vue.js <br>
+&emsp; &emsp; ⚪ Frameworks: TailwindCSS, and Vue.js <br>
 
 ➕ I have played with ... <br>
-&emsp; &emsp;⚪ Frameworks: Angualar and React <br>
+&emsp; &emsp;⚪ Frameworks: Angular and React <br>
 &emsp; &emsp;⚪ Tools: Docker, Kubernetes, AWS, and Concourse <br>
 
 ## D E S I G N ##
