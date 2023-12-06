@@ -7,7 +7,7 @@
 
 ➕ I'm a developer who loves being creative and ambitious. <br>
 ➕ My creative muses are architecture, music, and fashion <br>
-➕ I'm currently in my bookwarm era and reading a lot of historical fiction at the moment <br>
+➕ My current hobbies are reading📚, boxing🥊 and diys💅 <br>
 
 ## D E V E L O P E R ##
 
