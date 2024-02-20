@@ -5,7 +5,7 @@
 
 ## A B O U T  M E ##
 
-➕ I'm a developer who loves being creative and ambitious. <br>
+➕ I'm a developer who loves being creative and ambitious <br>
 ➕ My creative muses are architecture, music, and fashion <br>
 ➕ My current hobbies are reading📚, boxing🥊 and diys💅 <br>
 
