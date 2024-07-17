@@ -1,4 +1,4 @@
-## ✨H E L L O, &nbsp;I'M &nbsp; S A B R I N A ✨ ##
+## ✨H E L L O, &nbsp;I'M &nbsp;S A B R I N A ✨ ##
 
 ⚫ I'm a Front-end developer base in Seattle, WA <br>
 
