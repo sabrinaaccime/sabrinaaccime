@@ -1,8 +1,8 @@
-## ✨H E L L O,  I'M  S A B R I N A ✨ ##
+## ✨H E L L O, &nbsp;I'M &nbsp; S A B R I N A ✨ ##
 
-⚫ I'm a Front-end developer base in Seattle, WA. <br>
+⚫ I'm a Front-end developer base in Seattle, WA <br>
 
-## A B O U T  M E ##
+## A B O U T &nbsp;M E ##
 
 ⚫ I'm a developer who loves being creative and ambitious <br>
 ⚫ My creative muses are interior design, music, and fashion <br>
