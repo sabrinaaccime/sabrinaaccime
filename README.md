@@ -13,7 +13,9 @@
 ⚫ I have worked with ... <br>
 &emsp; &emsp; ⚪ CMS: Drupal and Wordpress <br>
 &emsp; &emsp; ⚪ Languages: HTML, CSS, SASS, Javascript, Python, SQL, Java and Ruby <br>
-&emsp; &emsp; ⚪ Frameworks: TailwindCSS, Vue.js, and Bootstrap <br>
+&emsp; &emsp; ⚪ Frameworks: TailwindCSS, Vue.js, Node.js and Bootstrap <br>
+&emsp; &emsp; ⚪ Tools: Git and NPM <br>
+
 
 ⚫ I have played with ... <br>
 &emsp; &emsp;⚪ Frameworks: Angular and React <br>
