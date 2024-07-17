@@ -1,6 +1,6 @@
 ## ✨H E L L O,  I'M  S A B R I N A ✨ ##
 
-⚫ I'm Front-end developer base in Seattle, WA. <br>
+⚫ I'm a Front-end developer base in Seattle, WA. <br>
 
 ## A B O U T  M E ##
 
