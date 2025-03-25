@@ -1,6 +1,6 @@
 ## ✨H E L L O, &nbsp;I'M &nbsp;S A B R I N A ✨ ##
 
-⚫ I'm a Front-end developer base in Seattle, WA <br>
+⚫ I'm a Fullstack developer base in Seattle, WA <br>
 
 ## A B O U T &nbsp;M E ##
 
@@ -18,7 +18,7 @@
 
 
 ⚫ I have played with ... <br>
-&emsp; &emsp;⚪ Frameworks: Angular and React <br>
+&emsp; &emsp;⚪ Frameworks: React, Nextjs and Anuglar <br>
 &emsp; &emsp;⚪ Tools: Docker, Kubernetes, AWS, and Concourse <br>
 
 ## D E S I G N ##
