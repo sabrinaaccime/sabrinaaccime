@@ -1,4 +1,4 @@
-## ✨Hello!✨ ##
+## ✨Hello✨ ##
 
 I'm Sabrina, a Fullstack Developer base in Seattle, WA with a background in Computer Science and a love for all things web. 
 
