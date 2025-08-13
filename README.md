@@ -1,6 +1,6 @@
-## ✨Hello✨ ##
+## Hello <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Sabrina, a Fullstack Developer base in Seattle, WA with a background in Computer Science and a love for all things web. 
+I'm a Fullstack Developer base in Seattle, WA with a background in Computer Science and a love for all things web. 
 
 I enjoy building clean, responsive, and user-friendly interfaces—mainly using HTML, CSS, and JavaScript. I'm especially focused on creating mobile-first designs that are accessible, consistent, and easy to use.
 
