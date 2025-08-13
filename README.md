@@ -1,28 +1,12 @@
-## ✨H E L L O, &nbsp;I'M &nbsp;S A B R I N A ✨ ##
+## ✨Hello!✨ ##
 
-⚫ I'm a Fullstack developer base in Seattle, WA <br>
+I'm Sabrina, a Fullstack Developer base in Seattle, WA with a background in Computer Science and a love for all things web. 
 
-## A B O U T &nbsp;M E ##
+I enjoy building clean, responsive, and user-friendly interfaces—mainly using HTML, CSS, and JavaScript. I'm especially focused on creating mobile-first designs that are accessible, consistent, and easy to use.
 
-⚫ I'm a developer who loves being creative and ambitious <br>
-⚫ My creative muses are interior design, music, and fashion <br>
-⚫ My current hobbies are reading📚, boxing🥊 and diys💅 <br>
+I’m detail-oriented, love solving problems, and enjoy working with others to bring ideas to life. Whether it’s crafting high-quality landing pages or collaborating on UX improvements, I’m always up for the challenge. I'm excited to keep learning, growing, and contributing to awesome engineering teams.
 
-## D E V E L O P E R ##
-
-⚫ I have worked with ... <br>
-&emsp; &emsp; ⚪ CMS: Drupal and Wordpress <br>
-&emsp; &emsp; ⚪ Languages: HTML, CSS, SASS, Javascript, Python, SQL, Java and Ruby <br>
-&emsp; &emsp; ⚪ Frameworks: TailwindCSS, Vue.js, Node.js and Bootstrap <br>
-&emsp; &emsp; ⚪ Tools: Git and NPM <br>
-
-
-⚫ I have played with ... <br>
-&emsp; &emsp;⚪ Frameworks: React, Nextjs and Anuglar <br>
-&emsp; &emsp;⚪ Tools: Docker, Kubernetes, AWS, and Concourse <br>
-
-## D E S I G N ##
-⚫ I have some experience in wireframing and Figma prototypying 
+Outside of work, I love keeping up with the latest trends in fashion and interior design. I'm a bit of a gym rat, I teach boxing, and I'm usually out roller skating when the weather’s nice.
 
   
 
